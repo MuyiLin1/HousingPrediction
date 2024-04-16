@@ -1,4 +1,4 @@
-# HousingPrediction
+# Bay Area Housing Prediction
 
 SF Bay Area House Prices Analysis
 
@@ -14,7 +14,10 @@ This project aims to analyze a dataset containing over 7,000 active listings fro
 The dataset comprises the following features:
 
 Address: The address of the house
+
 City: The city the house is located in
+
+
 State: California (Bay Area)
 Zip: Postal zip code
 Price: Listing price of the house
