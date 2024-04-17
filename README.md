@@ -1,7 +1,5 @@
 # Bay Area Housing Prediction
 
-SF Bay Area House Prices Analysis
-
 ![Image Not Found](https://www.worldpropertyjournal.com/news-assets/San-Francisco-homes-california-keyimage.jpg)
 ###### Image Credit: World Property Journal
 
