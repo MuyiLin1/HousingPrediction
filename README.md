@@ -16,18 +16,18 @@ The dataset comprises the following features:
 * Address: The address of the house
 * City: The city the house is located in
 * State: California (Bay Area)
-Zip: Postal zip code
-Price: Listing price of the house
-Beds: Number of bedrooms
-Baths: Number of bathrooms
-Home Size: Square footage of the house
-Lot Size: Square footage of the lot
-Latitude: Latitude coordinate
-Longitude: Longitude coordinate
-SF time: Commute time by car at 8 AM to San Francisco
-PA time: Commute time by car at 8 AM to commute to Palo Alto
-School Score: Quality of schools in the neighborhood
-Commute Time: Commute time by car at 8 AM to the general Bay Area
+* Zip: Postal zip code
+* Price: Listing price of the house
+* Beds: Number of bedrooms
+* Baths: Number of bathrooms
+* Home Size: Square footage of the house
+* Lot Size: Square footage of the lot
+* Latitude: Latitude coordinate
+* Longitude: Longitude coordinate
+* SF time: Commute time by car at 8 AM to San Francisco
+* PA time: Commute time by car at 8 AM to commute to Palo Alto
+* School Score: Quality of schools in the neighborhood
+* Commute Time: Commute time by car at 8 AM to the general Bay Area
 
 ### Data Source
 The dataset was sourced from Michael Boles.
